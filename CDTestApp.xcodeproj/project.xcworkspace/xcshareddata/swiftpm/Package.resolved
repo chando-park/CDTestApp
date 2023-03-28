@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cdplayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/chando-park/CDPlayer.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44630b1169a10d250d2879276ae31a97f653772a"
+      }
+    }
+  ],
+  "version" : 2
+}
